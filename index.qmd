@@ -1,8 +1,8 @@
 ---
-title: "Master thesis code documentation"
+title: "Secondary syntopy in North American passerines: Multiscale analysis using the BBS dataset"
 ---
 
-# Secondary syntopy in North American passerines: Multiscale analysis using the BBS dataset
+Master's thesis code documentation
 
 Author: Matěj Tvarůžka
 

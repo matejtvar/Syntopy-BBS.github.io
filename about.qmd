@@ -1,6 +1,8 @@
 ---
-title: "How can closely related species coexist at the same site?"
+title: "About"
 ---
+
+## How can closely related species coexist at the same site?
 
 -   Which factors predict local co-occurrence (syntopy) among species?
 

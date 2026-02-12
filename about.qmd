@@ -1,16 +1,10 @@
 ---
-title: "About"
+title: "How can closely related species coexist at the same site?"
 ---
 
-# **Question:**
+-   Which factors predict local co-occurrence (syntopy) among species?
 
-# How can closely related species coexist at the same site?
-
-## Particular Questions:
-
-## Q1: Which factors predict local co-occurrence (syntopy) among species?
-
-## Q2: Does the influence of these predictors vary across two spatial scales?
+-   Does the influence of these predictors vary across two spatial scales?
 
 ## Annotation
 
@@ -29,6 +23,8 @@ To infer drivers of syntopy, I will replicate the analytical framework of Remeš
 -   Take the sister pairs from the phylogeny
 
 -   Make a map of the sympatric range for each pair
+
+-   Filtera and clean routes data
 
 -   Extract data about syntopy across transects
 

@@ -1,5 +1,5 @@
 ---
-title: "Syntopy-BBS.github.io"
+title: "Master thesis code documentation"
 ---
 
 # Secondary syntopy in North American passerines: Multiscale analysis using the BBS dataset

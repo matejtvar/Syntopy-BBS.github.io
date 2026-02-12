@@ -20,18 +20,11 @@ To infer drivers of syntopy, I will replicate the analytical framework of Remeš
 
 ## Steps
 
--   Take the sister pairs from the phylogeny
-
--   Make a map of the sympatric range for each pair
-
--   Filtera and clean routes data
-
--   Extract data about syntopy across transects
-
--   Calculate the index of co-occurrence
-
--   Extract data about the species' niche
-
--   Combine all the data into one dataframe
-
--   Perform a statistical analysis of the particular questions
+-   [ ] Take the sister pairs from the phylogeny
+-   [ ] Make a map of the sympatric range for each pair
+-   [ ] Filtera and clean routes data
+-   [ ] Extract data about syntopy across transects
+-   [ ] Calculate the index of co-occurrence
+-   [ ] Extract data about the species' niche
+-   [ ] Combine all the data into one dataframe
+-   [ ] Perform a statistical analysis of the particular questions

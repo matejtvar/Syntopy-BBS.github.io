@@ -1,8 +1,8 @@
 ---
-title: "Sytnopy-BBS.github.io"
+title: "Syntopy-BBS.github.io"
 ---
-# Secondary syntopy in North American passerines: Multiscale analysis using the BBS dataset
 
+# Secondary syntopy in North American passerines: Multiscale analysis using the BBS dataset
 
 Author: Matěj Tvarůžka
 

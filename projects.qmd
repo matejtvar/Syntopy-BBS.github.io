@@ -37,9 +37,6 @@ I am using R to model the syntopy of birds using the BBS dataset.
 
 Here you can check my final assignement of [Spatial Data Science for Social Geography course](https://martinfleischmann.net/sds/), which is a computational essey written in python using jupyterlab.
 
-I made the route-based analysis of bird species richness across the contiguous
-United States, using The North American Breeding Bird Survey (BBS) data -
-routes as the observational units and combination of environmental
-(NDVI) and spatial (elevation, LONG, LAT) predictors.
+I made the route-based analysis of bird species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.
 
-[**View Project →**](https://matejtvar.github.io/SDS-assignment/assignment.html){.btn .btn-outline-primary .btn-sm role="button"}
+[**View Project →**](https://matejtvar.github.io/SDS-assignment/){.btn .btn-outline-primary .btn-sm role="button"}

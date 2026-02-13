@@ -2,7 +2,7 @@
 ---
 ---
 
-## Master's Thesis: Syntopy in North American Birds
+## 📃Master's Thesis: Syntopy in North American Birds
 
 | How can closely related species coexist at the same site?
 
@@ -33,6 +33,13 @@ I am using spatial data science to model the syntopy of birds using the BBS data
 
 ------------------------------------------------------------------------
 
-## Spatial Data Science Assignment
+## 🌎Spatial Data Science Assignment
 
-This project covers \[brief description of what you did in the assignment\]. [**View Project →**](https://matejtvar.github.io/SDS-assignment/assignment.html){.btn .btn-outline-primary .btn-sm role="button"}
+Here you can check my final assignement of [Spatial Data Science for Social Geography course](https://martinfleischmann.net/sds/), which is a computational essey written in python using jupyterlab.
+
+A route-based analysis of bird species richness across the contiguous
+United States, using The North American Breeding Bird Survey (BBS) data -
+routes as the observational units and combination of environmental
+(NDVI) and spatial (elevation, LONG, LAT) predictors.
+
+[**View Project →**](https://matejtvar.github.io/SDS-assignment/assignment.html){.btn .btn-outline-primary .btn-sm role="button"}

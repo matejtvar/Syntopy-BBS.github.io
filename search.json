@@ -38,8 +38,8 @@
     "objectID": "projects.html#masters-thesis-syntopy-in-north-american-birds",
     "href": "projects.html#masters-thesis-syntopy-in-north-american-birds",
     "title": "Matěj Tvarůžka",
-    "section": "Master’s Thesis: Syntopy in North American Birds",
-    "text": "Master’s Thesis: Syntopy in North American Birds\nHow can closely related species coexist at the same site?"
+    "section": "📃Master’s Thesis: Syntopy in North American Birds",
+    "text": "📃Master’s Thesis: Syntopy in North American Birds\nHow can closely related species coexist at the same site?"
   },
   {
     "objectID": "projects.html#annotation",
@@ -59,7 +59,7 @@
     "objectID": "projects.html#spatial-data-science-assignment",
     "href": "projects.html#spatial-data-science-assignment",
     "title": "Matěj Tvarůžka",
-    "section": "Spatial Data Science Assignment",
-    "text": "Spatial Data Science Assignment\nThis project covers [brief description of what you did in the assignment]. View Project →"
+    "section": "🌎Spatial Data Science Assignment",
+    "text": "🌎Spatial Data Science Assignment\nHere you can check my final assignement of Spatial Data Science for Social Geography course, which is a computational essey written in python using jupyterlab.\nA route-based analysis of bird species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.\nView Project →"
   }
 ]

@@ -1,3 +1,13 @@
 ---
 title: "Welcome!"
 ---
+
+> „The ideal scientist thinks like a poet
+>
+> and only later works like a bookkeeper.“
+>
+> ```         
+>                                        E. O. Wilson
+> ```
+
+![](photo.jpeg)

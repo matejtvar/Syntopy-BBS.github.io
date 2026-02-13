@@ -1,8 +1,8 @@
 ---
-title: "📃Master's Thesis: Syntopy in North American Bird"
+title: "📃Master's Thesis: Syntopy in North American Birds"
 ---
 
-## **How can closely related species coexist at the same site?**
+## 🐦 **How can closely related species coexist at the same site?**
 
 ### Annotation
 
@@ -33,7 +33,7 @@ I am using R to model the syntopy of birds using the BBS dataset.
 
 ------------------------------------------------------------------------
 
-## 🌎SDS Assignment
+# 🌎SDS Assignment
 
 Here you can check my final assignement of [Spatial Data Science for Social Geography course](https://martinfleischmann.net/sds/), which is a computational essey written in python using jupyterlab.
 

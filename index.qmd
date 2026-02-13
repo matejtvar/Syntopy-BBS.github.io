@@ -10,4 +10,4 @@ title: "Welcome!"
 >                                        E. O. Wilson
 > ```
 
-![](photo.jpeg)
+![![]()](photo.jpeg){fig-align="center" width="395"}

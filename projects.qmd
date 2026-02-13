@@ -1,10 +1,10 @@
 ---
-title: "Projects"
+---
 ---
 
 ## Master's Thesis: Syntopy in North American Birds
 
-How can closely related species coexist at the same site?
+| How can closely related species coexist at the same site?
 
 ## Annotation
 

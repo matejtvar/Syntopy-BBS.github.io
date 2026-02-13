@@ -5,17 +5,21 @@ project:
 website:
   title: "Matěj Tvarůžka"
   description: "Ecology & Spatial Data Science"
-  
+
+  page-footer: 
+    left: "© 2026 Matěj Tvarůžka"
+    right: "Built with Quarto"
+
   navbar:
     background: primary
     search: true
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About Me
       - href: projects.qmd
         text: Projects
+      - href: about.qmd
+        text: About Me
     right:
       - icon: github
         href: https://github.com/matejtvar
@@ -25,9 +29,6 @@ format:
     theme:
       light: flatly
       dark: darkly
-    highlight-style: github  # Automatically switches between light/dark code colors
+    highlight-style: github
     css: styles.css
     toc: true
-    page-footer: 
-      left: "© 2026 Matěj Tvarůžka"
-      right: "Built with Quarto"

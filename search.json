@@ -19,19 +19,5 @@
     "title": "How can closely related species coexist at the same site?",
     "section": "Steps",
     "text": "Steps\n\nTake the sister pairs from the phylogeny\nMake a map of the sympatric range for each pair\nFiltera and clean routes data\nExtract data about syntopy across transects\nCalculate the index of co-occurrence\nExtract data about the species’ niche\nCombine all the data into one dataframe\nPerform a statistical analysis of the particular questions"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Secondary syntopy in North American passerines: Multiscale analysis using the BBS dataset",
-    "section": "",
-    "text": "Master’s thesis code documentation\nAuthor: Matěj Tvarůžka"
-  },
-  {
-    "objectID": "index.html#data-preparation",
-    "href": "index.html#data-preparation",
-    "title": "Secondary syntopy in North American passerines: Multiscale analysis using the BBS dataset",
-    "section": "Data preparation",
-    "text": "Data preparation\n\n1 + 1\n\n[1] 2"
   }
 ]

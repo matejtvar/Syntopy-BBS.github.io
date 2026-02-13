@@ -1,1 +1,1 @@
-Sitemap: https://matejtvar.github.io/Syntopy-BBS.github.io/sitemap.xml
+Sitemap: https://matejtvar.github.io/sitemap.xml

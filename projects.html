@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>projects – Matěj Tvarůžka</title>
+<title>📃Master’s Thesis: Syntopy in North American Bird – Matěj Tvarůžka</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -292,37 +292,52 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#masters-thesis-syntopy-in-north-american-birds" id="toc-masters-thesis-syntopy-in-north-american-birds" class="nav-link active" data-scroll-target="#masters-thesis-syntopy-in-north-american-birds">📃Master’s Thesis: Syntopy in North American Birds</a></li>
+  <li><a href="#how-can-closely-related-species-coexist-at-the-same-site" id="toc-how-can-closely-related-species-coexist-at-the-same-site" class="nav-link active" data-scroll-target="#how-can-closely-related-species-coexist-at-the-same-site"><strong>How can closely related species coexist at the same site?</strong></a>
+  <ul class="collapse">
   <li><a href="#annotation" id="toc-annotation" class="nav-link" data-scroll-target="#annotation">Annotation</a></li>
   <li><a href="#steps" id="toc-steps" class="nav-link" data-scroll-target="#steps">Steps</a></li>
-  <li><a href="#spatial-data-science-assignment" id="toc-spatial-data-science-assignment" class="nav-link" data-scroll-target="#spatial-data-science-assignment">🌎Spatial Data Science Assignment</a></li>
+  </ul></li>
+  <li><a href="#sds-assignment" id="toc-sds-assignment" class="nav-link" data-scroll-target="#sds-assignment">🌎SDS Assignment</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">📃Master’s Thesis: Syntopy in North American Bird</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<hr>
-<section id="masters-thesis-syntopy-in-north-american-birds" class="level2">
-<h2 class="anchored" data-anchor-id="masters-thesis-syntopy-in-north-american-birds">📃Master’s Thesis: Syntopy in North American Birds</h2>
-<div class="line-block">How can closely related species coexist at the same site?</div>
-</section>
-<section id="annotation" class="level2">
-<h2 class="anchored" data-anchor-id="annotation">Annotation</h2>
+</header>
+
+
+<section id="how-can-closely-related-species-coexist-at-the-same-site" class="level2">
+<h2 class="anchored" data-anchor-id="how-can-closely-related-species-coexist-at-the-same-site"><strong>How can closely related species coexist at the same site?</strong></h2>
+<section id="annotation" class="level3">
+<h3 class="anchored" data-anchor-id="annotation">Annotation</h3>
 <p>Understanding the ecological and evolutionary drivers of local cooccurrence (syntopy) among closely related species is key to explaining biodiversity patterns. My Bachelor’s thesis, Ecology and Evolution of Secondary Sympatry in Birds, provides a theoretical foundation for this topic by exploring how ecological divergence facilitates co-existence following range overlap. Building on this framework, my master’s thesis will focus on the ecology and evolution of local syntopy in North American passerines using data from the North American Breeding Bird Survey (BBS), a standardised large-scale monitoring programme.</p>
 <p>The central hypothesis is that local syntopy is promoted by ecological divergence, particularly in resource use, and that the influence of such predictors differs between spatial scales. I will assess syntopy at the scale of individual point counts and entire transects, and evaluate the role of species traits in shaping these patterns. The methodological approach will replicate the framework of Remeš &amp; Harmáčková (2023), which uses unbiased cooccurrence analyses to infer the drivers of syntopy. Materials and Methods The study will use data from the North American Breeding Bird Survey (BBS), a long-term, standardised monitoring programme that records bird assemblages across approximately 2,900 routes annually. Each route includes 50 point counts spaced at 0.5-mile intervals. I will analyse patterns of syntopy at two spatial resolutions:</p>
 <ol type="1">
-<li><p>Point scale (individual stops) and</p></li>
-<li><p>Transect scale (combined stops along each route).</p></li>
+<li><p><strong>Point scale (individual stops) and</strong></p></li>
+<li><p><strong>Transect scale (combined stops along each route).</strong></p></li>
 </ol>
 <p>To infer drivers of syntopy, I will replicate the analytical framework of Remeš &amp; Harmáčková (2023), which uses cooccurrence analyses and species trait data to identify ecological predictors of coexistence. A novel feature of this thesis will be analysing syntopy at two spatial resolutions (see above). Remeš, V. and Harmáčková, L. (2023), Resource use divergence facilitates the evolution of secondary syntopy in a continental radiation of songbirds (Meliphagoidea): insights from unbiased co-occurrence analyses. Ecography, 2023: e06268. <a href="https://doi.org/10.1111/ecog.06268" class="uri">https://doi.org/10.1111/ecog.06268</a></p>
 </section>
-<section id="steps" class="level2">
-<h2 class="anchored" data-anchor-id="steps">Steps</h2>
+<section id="steps" class="level3">
+<h3 class="anchored" data-anchor-id="steps">Steps</h3>
 <ul class="task-list">
 <li><label><input type="checkbox">Take the sister pairs from the phylogeny</label></li>
 <li><label><input type="checkbox">Make a map of the sympatric range for each pair</label></li>
@@ -333,13 +348,15 @@ ul.task-list li input[type="checkbox"] {
 <li><label><input type="checkbox">Combine all the data into one dataframe</label></li>
 <li><label><input type="checkbox">Perform a statistical analysis of the particular questions</label></li>
 </ul>
-<p>I am using spatial data science to model the syntopy of birds using the BBS dataset. <a href="https://github.com/matejtvar/BBS-syntopy/" class="btn btn-outline-primary btn-sm" role="button"><strong>View Thesis Documentation →</strong></a></p>
+<p>I am using R to model the syntopy of birds using the BBS dataset.</p>
+<p><a href="https://github.com/matejtvar/BBS-syntopy/" class="btn btn-outline-primary btn-sm" role="button"><strong>View Thesis Documentation →</strong></a></p>
 <hr>
 </section>
-<section id="spatial-data-science-assignment" class="level2">
-<h2 class="anchored" data-anchor-id="spatial-data-science-assignment">🌎Spatial Data Science Assignment</h2>
+</section>
+<section id="sds-assignment" class="level2">
+<h2 class="anchored" data-anchor-id="sds-assignment">🌎SDS Assignment</h2>
 <p>Here you can check my final assignement of <a href="https://martinfleischmann.net/sds/">Spatial Data Science for Social Geography course</a>, which is a computational essey written in python using jupyterlab.</p>
-<p>A route-based analysis of bird species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.</p>
+<p>I made the route-based analysis of bird species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.</p>
 <p><a href="https://matejtvar.github.io/SDS-assignment/assignment.html" class="btn btn-outline-primary btn-sm" role="button"><strong>View Project →</strong></a></p>
 
 

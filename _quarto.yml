@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Syntopy-BBS.github.io"
+  title: "Matěj Tvarůžka | Ecology & Data Science"
   navbar:
     left:
       - href: index.qmd

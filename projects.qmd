@@ -35,4 +35,4 @@ I am using spatial data science to model the syntopy of birds using the BBS data
 
 ## Spatial Data Science Assignment
 
-This project covers \[brief description of what you did in the assignment\]. [**View Project →**](https://matejtvar.github.io/SDS-assignment/){.btn .btn-outline-primary .btn-sm role="button"}
+This project covers \[brief description of what you did in the assignment\]. [**View Project →**](https://matejtvar.github.io/SDS-assignment/assignment.html){.btn .btn-outline-primary .btn-sm role="button"}

@@ -1,8 +1,10 @@
 ---
-title: "📃Master's Thesis: Syntopy in North American Birds"
+title: "📃Master's Thesis"
 ---
 
-## 🐦 **How can closely related species coexist at the same site?**
+# 🐦 Syntopy in North American Birds
+
+> **How can closely related species coexist at the same site?**
 
 ### Annotation
 

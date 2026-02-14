@@ -1,10 +1,11 @@
 ---
 title: "My projects"
-title-block-render: false
----
-# Master's Thesis
 
-## 🐦 Syntopy in North American Birds
+---
+
+# 📓 Master's Thesis
+
+## Syntopy in North American Birds 🐦
 
 ::: {.callout-note appearance="minimal"}
 ### Annotation
@@ -24,7 +25,7 @@ To infer drivers of syntopy, I will replicate the analytical framework of Remeš
 
 ------------------------------------------------------------------------
 
-# 🌎SDS Assignment
+# 🌎 SDS Assignment
 
 Here you can check my final assignement of [Spatial Data Science for Social Geography course](https://martinfleischmann.net/sds/), which is a computational essey written in 🐍**python** using **JupyterLab**.
 
@@ -34,13 +35,13 @@ I made the route-based analysis of species richness across the contiguous United
 
 [**View Project →**](https://matejtvar.github.io/SDS-assignment/){.btn .btn-outline-primary .btn-sm role="button"}
 
-# 📓Ecology and evolution of secondary sympatry in birds
+# 📓 Ecology and evolution of secondary sympatry in birds
 
 Here you can check my bachelor's thesis.
 
 [**View Project →**](https://dspace.cuni.cz/bitstream/handle/20.500.11956/203819/130440898.pdf?sequence=1){.btn .btn-outline-primary .btn-sm role="button"}
 
-# 🔰R for Life
+# 🔰 R for Life
 
 Here you can check my first two projects in written in **R**.
 

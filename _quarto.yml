@@ -23,6 +23,14 @@ website:
     right:
       - icon: github
         href: https://github.com/matejtvar
+      - icon: google
+        href: https://scholar.google.com/citations?view_op=list_works&hl=cs&hl=cs&user=6z0qsfMAAAAJ
+        aria-label: Google Scholar
+      - icon: envelope
+        href: mailto:matej.tvar@gmail.com
+      - icon: binoculars
+        href: https://ebird.org/profile/MTQwNTM2Mw
+        aria-label: eBird
 
 format:
   html:
@@ -30,5 +38,4 @@ format:
       light: flatly
       dark: darkly
     highlight-style: github
-    css: styles.css
     toc: true

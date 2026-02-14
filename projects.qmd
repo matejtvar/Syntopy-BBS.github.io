@@ -1,5 +1,6 @@
 ---
-title: "My projects are here"
+pagetitle: "Projects"
+title-block-style: none
 ---
 
 # 📓 Master's Thesis

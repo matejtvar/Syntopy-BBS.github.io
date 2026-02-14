@@ -1,12 +1,11 @@
 ---
 title: "My projects"
-title-block-render: false
-
+title-block-style: none
 ---
 
 # 📓 Master's Thesis
 
-## Syntopy in North American Birds 🐦
+## Syntopy in North American Birds
 
 ::: {.callout-note appearance="minimal"}
 ### Annotation

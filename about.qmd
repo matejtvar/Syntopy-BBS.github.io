@@ -1,10 +1,11 @@
 ---
 title: "Matěj Tvarůžka"
-image: photo.jpeg
-about:
-  template: jolla
+subtitle: Data Science
+about: 
+  template: trestles
+  image: photo.jpg
+  image-alt: Magnified image of cells
   image-shape: round
-  image-width: 15em
 ---
 
 ::: {style="text-align: block;"}

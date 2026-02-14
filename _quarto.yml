@@ -11,7 +11,7 @@ website:
     right: "Built with Quarto"
 
   navbar:
-    background: primary
+    background: "#2E2252"
     search: true
     left:
       - href: index.qmd

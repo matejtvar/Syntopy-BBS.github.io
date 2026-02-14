@@ -43,7 +43,7 @@ Here you can check my bachelor's thesis.
 
 # 🔰 R for Life
 
-Here you can check my first two projects in written in **R**.
+Here you can check my first two projects written in **R**.
 
 [Species Richness Map →](https://rpubs.com/Solitaris60w/1204396){.btn .btn-outline-primary .btn-sm role="button"}
 

@@ -1,9 +1,10 @@
 ---
 title: "Matěj Tvarůžka"
-about: 
+image: photo.jpeg
+about:
   template: trestles
-  image: photo.jpeg
   image-shape: round
+  image-width: 15em
 ---
 
 ::: {style="text-align: block;"}

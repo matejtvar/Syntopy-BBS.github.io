@@ -1,10 +1,8 @@
 ---
 title: "Matěj Tvarůžka"
-subtitle: Data Science
 about: 
   template: trestles
-  image: photo.jpg
-  image-alt: Magnified image of cells
+  image: photo.jpeg
   image-shape: round
 ---
 

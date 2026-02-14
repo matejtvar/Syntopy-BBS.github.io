@@ -1,5 +1,6 @@
 ---
-title: "Welcome! I am master student in Ecology at the Charles University courious about spatial ecology. Do not hesitate to contact me!"
+title: "Welcome! I am master student in Ecology at the Charles University courious about spatial ecology."
+subtitle: Do not hesitate to contact me!
 image: photo.jpeg
 about:
   template: jolla
@@ -20,10 +21,8 @@ about:
       href: mailto:matej.tvar@gmail.com
 ---
 
-> „The ideal scientist thinks like a poet
+> *„The ideal scientist thinks like a poet*
 >
-> and only later works like a bookkeeper.“
->
-> ```         
->                                        E. O. Wilson
-> ```
+> *and only later works like a bookkeeper.“*
+
+**E. O. Wilson**

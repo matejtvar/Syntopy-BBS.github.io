@@ -1,6 +1,6 @@
 ---
 title: "My projects"
-title-block-style: none
+title-block-style: default
 ---
 
 # 📓 Master's Thesis
